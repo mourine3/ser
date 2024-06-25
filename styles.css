@@ -10,7 +10,7 @@
 
 
 body {
-  font-family: 'Poppins', Cursive;
+  font-family: 'Poppins', Serif Fonts;
   font-size: 1rem;
   font-weight: 400;
   line-height: 2;
@@ -57,6 +57,16 @@ h1, p {
 div {
   color: #ffe4d0;
   text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px white;
+}
+
+.here {
+  text-align: center;
+  border: 1px solid white;
+  border-radius: 5px;
+  background-color: white;
+  color: gray;
+  margin: 0;
+  width: 100%;
 }
 
 input,
@@ -147,3 +157,4 @@ form {
   background-color: #45a049;
   border-color: #45a049;
 }
+
